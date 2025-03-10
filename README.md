@@ -2,11 +2,7 @@
 
 This is example repo for group 421.
 
-## Second header level
-
-```shell
-bash run.sh
-```
+## How to use
 
 
 ```python
@@ -14,3 +10,10 @@ import this
 ```
 
 Test `script`.
+
+## Installation scripts
+
+```shell
+./scripts/run.sh
+```
+
