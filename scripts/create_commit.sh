@@ -1,6 +1,7 @@
 #!/bin/bash
 
 file=$1
+mkdir -p assets
 
 touch assets/$file
 
